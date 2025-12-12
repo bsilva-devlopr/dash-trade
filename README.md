@@ -41,8 +41,8 @@ cp .env.example .env
 Edite o `.env` com suas chaves de API:
 ```env
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/dash_trade"
-BRAPI_API_KEY=95QzvCEZ5dj4KTYBmZz8By
-MARKETSTACK_API_KEY=95a7ecd33672c44a416af668af886df4
+BRAPI_API_KEY=...
+MARKETSTACK_API_KEY=...
 ALPHAVANTAGE_API_KEY=your_key_here
 ```
 
